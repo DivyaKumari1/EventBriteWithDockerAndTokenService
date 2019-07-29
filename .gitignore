@@ -1,0 +1,16 @@
+/.vs
+/obj
+/bin/Debug
+EventBash/.vs
+EventBash/.vs/
+EventBash/bin/Debug
+EventBash/obj
+EventBash/EventCatalogAPI/obj
+EventBash/EventCatalogAPI/bin/Debug/netcoreapp2.1
+EventBash/EventCatalogAPI/bin/Debug/netcoreapp2.1/
+EventBash/HelpAndContactUsAPI/obj
+EventBash/HelpAndContactUs/bin/Debug/netcoreapp2.1
+EventBash/UserAPI/obj
+EventBash/UserAPI/bin/Debug/netcoreapp2.1
+EventBash/WebMvc/obj
+*.config
